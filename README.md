@@ -67,7 +67,7 @@ docker compose up --build
 
 - Laravel (Frontend): [http://localhost:8000](http://localhost:8082)
 - CodeIgniter (Backend API): [http://localhost:8080](http://localhost:8080)
-- phpMyAdmin (jika tersedia): [http://localhost:8081](http://localhost:8081)
+- phpMyAdmin (database): [http://localhost:8081](http://localhost:8081)
 
 ---
 
