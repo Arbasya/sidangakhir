@@ -65,13 +65,13 @@ docker compose up --build
 
 ### 4. Akses Aplikasi
 
-- Laravel (Frontend): [http://localhost:8000](http://localhost:8082)
+- Laravel (Frontend): [http://localhost:8082](http://localhost:8082)
 - CodeIgniter (Backend API): [http://localhost:8080](http://localhost:8080)
 - phpMyAdmin (database): [http://localhost:8081](http://localhost:8081)
 
 ---
 
-## 📁 Struktur Folder (Contoh)
+## 📁 Struktur Folder
 
 ```
 sidangakhir/
@@ -88,7 +88,7 @@ sidangakhir/
 ## 🔧 Troubleshooting
 
 - ❗ **Port bentrok**:
-  - Tutup aplikasi lain yang memakai port `8000`, `8080`, atau `3306`.
+  - Tutup aplikasi lain yang memakai port `8082`, `8080`, atau `3306`.
 
 - ❗ **Ingin reset container dan volume**:
   ```bash
