@@ -107,3 +107,12 @@ Fork repo ini, buat branch baru, dan kirimkan pull request.
 ## 📄 Lisensi
 
 Proyek ini menggunakan lisensi MIT.
+
+---
+
+## 📊 Perbandingan Performa Nginx vs Apache
+
+Menggunakan nginx lebih direkomendasikan dalam proyek ini.
+Berikut grafik performa antara Nginx dan Apache dalam beberapa skenario:
+
+![Perbandingan performa Nginx vs Apache](./public/images/performance_comparison.png)
