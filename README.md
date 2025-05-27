@@ -115,4 +115,4 @@ Proyek ini menggunakan lisensi MIT.
 Menggunakan nginx lebih direkomendasikan dalam proyek ini.
 Berikut grafik performa antara Nginx dan Apache dalam beberapa skenario:
 
-![Perbandingan performa Nginx vs Apache](./public/images/comparison.png)
+![Perbandingan performa Nginx vs Apache](frontend/public/images/comparison.png)
